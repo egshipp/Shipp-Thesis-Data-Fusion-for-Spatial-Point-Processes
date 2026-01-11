@@ -6,6 +6,6 @@ File Descriptions:
 
 Sim_Data folder - Holds all simulated data used in for results and discussion in thesis
 
-Data_Fusion_Simulation_Study.R - R script of MCMC algorithm as well as process for simulating the point process
+Data_Fusion_Simulation_Study.R - R script of MCMC algorithm as well as process for simulating each point process
 
 Simulation_Analysis.R - R script for analysis of simulated data and posterior intensity surface estimates
